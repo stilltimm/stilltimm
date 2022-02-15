@@ -1,4 +1,4 @@
-# About me 🕵️‍♂️
+# About me 🕵️‍
 I am a product-driven, passionate iOS Developer with vast experience and high technical skills, as well as deep understanding of iOS platform, mobile app design trends and product-management
 
 # Work Experience 👨‍💻
